@@ -5,6 +5,8 @@ import csv
 from nav_msgs.msg import Path
 from geometry_msgs.msg import PoseStamped
 
+## git change test
+
 
 def create_straight_path():
     rospy.init_node('Global_path_published')
