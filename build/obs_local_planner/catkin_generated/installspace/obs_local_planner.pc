@@ -1,0 +1,8 @@
+prefix=/home/minchan/obs_control/install
+
+Name: obs_local_planner
+Description: Description of obs_local_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

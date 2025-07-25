@@ -1,0 +1,8 @@
+prefix=/home/minchan/obs_control/install
+
+Name: tf_viz_pkg
+Description: Description of tf_viz_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
